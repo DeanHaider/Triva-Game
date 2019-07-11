@@ -1,0 +1,48 @@
+.backgroundimg {
+    width: 550px;
+    clear: both;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+    color: red;
+    margin-bottom: 20px;
+}
+
+body {
+    margin-top: 20px;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: whitesmoke;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+    width: 75%;
+    height: 100%;
+}
+
+li {
+    margin-top: 10px;
+    font-size: 20px;
+}
+  
+#quiz__results {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+  
+.quiz__questions--question {
+    background-color: teal;
+    margin: 0 10px 10px;
+    padding: 15px 15px;
+    text-align: center;
+}
